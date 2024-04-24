@@ -5,5 +5,5 @@ Pensando nisso, desenvolveremos um sistema de solicitação de serviço integrad
 
 
 ## Link do canvas
-[![Miro](https://cdn.worldvectorlogo.com/logos/miro-1.svg)](https://miro.com/app/board/uXjVKPvTMSo=/?share_link_id=167261847657)
+[![Miro]([https://cdn.worldvectorlogo.com/logos/miro-1.svg](https://theme.zdassets.com/theme_assets/9084255/e760fd3de8948322d3d81fc9db1ab8439e6d2fcf.png))](https://miro.com/app/board/uXjVKPvTMSo=/?share_link_id=167261847657)
 
