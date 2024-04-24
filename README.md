@@ -5,4 +5,4 @@ Pensando nisso, desenvolveremos um sistema de solicitação de serviço integrad
 
 
 ## Link do canvas
-<ahref="https://miro.com/app/board/uXjVKPvTMSo=/?share_link_id=167261847657">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://miro.com/app/board/uXjVKPvTMSo=/?share_link_id=167261847657">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
