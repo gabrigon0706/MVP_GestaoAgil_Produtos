@@ -5,7 +5,8 @@ Pensando nisso, desenvolveremos um sistema de solicitação de serviço integrad
 
 
 ## Link do canvas
-[![Miro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_JrqqMi5frRdcq7tONXHTZJY4sFU4aejlbf8fVkrCRk02G0sLFmUHdr3GyOyUCu5rn6I&usqp=CAU)](https://miro.com/app/board/uXjVKPvTMSo=/?share_link_id=167261847657)
+[![Miro](https://miro.com/)](https://miro.com/app/board/uXjVKPvTMSo=/?share_link_id=167261847657)
 
 
 
+https://miro.com/
